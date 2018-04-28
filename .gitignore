@@ -1,0 +1,19 @@
+# Created by .ignore support plugin (hsz.mobi)
+.DS_modules
+.DS_Store
+
+.svn
+
+*.css.map
+.sass-cache
+
+*pyc
+.python-version
+dump.rdb
+
+**/migrations/*.py
+!**/migrations/__init__.py
+__pycache__/
+db.sqlite3
+.idea/
+tmp/

@@ -1,2 +1,2 @@
-# python-lib
-一些运维开发中用到的平台对接包
+# python-DevOps-lib
+一些运维开发中用到的简单平台API对接包
