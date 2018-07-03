@@ -1,0 +1,4 @@
+JENKINS_URL = "http://localhost:8084/"
+JENKINS_USER = "admin"
+JENKINS_PASSWORD = ""
+JENKINS_USER_API_TOKEN = ""

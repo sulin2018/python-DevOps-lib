@@ -4,7 +4,7 @@ python-etcd对接示例
 """
 import etcd
 
-from etcd_api_demo.config import ETCD_CLUSTER
+from etcd_tool.config import ETCD_CLUSTER
 
 client = etcd.Client(
     host=ETCD_CLUSTER, allow_reconnect=True)
